@@ -1,0 +1,5 @@
+Most auto-open drawers connect to a receipt printer’s “kick” port using RJ11 (6P4C) or RJ12 (6P6C) cables.
+
+Printer-connect (RJ/RS232) drawers sends the open command pulse to the drawer after a cash sale through the 'kick' port.
+
+Direct-connect (USB) drawers plug into the POS terminal and open via driver/utility or POS software. These USB devices are adapters that bypass the need for a printer to trigger the kick pulse. Removing this need for a printer in modern times is more convenient for cash-less operations and gives more flexibility by avoiding printer requirements. Not every Drawer needs a printer, not every printer needs a drawer. Cost savings.
